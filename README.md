@@ -1,2 +1,2 @@
-# wac-rules
-War &amp; Conquest gameplay related rules
+# War &amp; Conquest gameplay related rules
+Nothing here yet..
