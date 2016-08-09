@@ -35,6 +35,8 @@ Staff leden kunnen ook events organiseren, die events zijn niet altijd in lijn m
 - "rank" de rank die iemand heeft op de server, bijvoorbeeld Mod of Member.
 
 - "rol" de rol die iemand vervult op de server, dit kan bijvoorbeeld kapitein, burger, admiraal, boer enz. zijn.
+ 
+- "geankerd schip" Een schip dat *niet midden op zee* stil ligt, op anker.
 
 - "serverschip" een schip dat eigendom is van het staff team. Dit zijn bijvoorbeeld in beslag genomen schepen, of toekomstige schepen waar aan wordt gewerkt door staff leden. Serverschepen worden aangeduid met een **roze vlag**. Een serverschip mag je niet aanpassen of verplaatsen, blijf daar volledig van af. Als zo'n schip in de weg ligt vraag dan een staff lid om haar te verplaatsen.
 
