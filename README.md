@@ -2,7 +2,7 @@
 
 ## Woord vooraf
 Deze regels omvatten lang niet *alles*, er zullen altijd ongeschreven regels bestaan die door staffleden gehandhaafd worden.
-Deze regels kunnen ook op elk moment onaangekondigd veranderd worden, dit gebeurd vrij vaak. Houdt dus een beetje bij of er nog wat veranderd.
+De regels in dit bestand kunnen ook op elk moment onaangekondigd veranderd worden, dit gebeurd vrij vaak. Houdt dus een beetje bij of er nog wat veranderd.
 
 Staff leden kunnen ook events organiseren, die events zijn niet altijd in lijn met de regels. Er kan bijvoorbeeld een event zijn dat een schip wordt gekaapt uit een safezone, maar geen zorgen, dit gebeurd alleen als dit redelijk is. Men zal dus meestal geen schip kapen uit een safezone dat totaal onverdedigd is. **Let op!** ga **niet in je eentje** events organiseren, alleen staff leden kunnen dat.
 
