@@ -78,7 +78,9 @@ Vraag een staff lid op de server hoe schepen bestuurd moeten worden.
 
 ### Wanneer mag een schip gekaapt worden?
 Dit is best ingewikkeld. We zullen een paar voorbeelden geven.
-- Een onbemand geankerd schip mag niet gekaapt worden.
+- Een *onbemand* geankerd schip mag niet gekaapt worden.
+- Een *bemand* geankerd schip mag gekaapt worden.
+- Een geankerd schip, van een vijand, dat bij jouw/jullie grondgebied geankerd ligt mag gekaapt worden, bemand en onbemand.
 - Een schip in een safezone mag niet gekaapt worden.
 - Een schip dat onbemand midden op zee ligt mag gekaapt worden als die daar gewoon achtergelaten is, maar niet als bijvoorbeeld de bemanning net even gecrashed is en weer de server aan het joinen is.
 - Serverschepen mogen *nooit* gekaapt worden.
