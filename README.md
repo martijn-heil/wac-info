@@ -40,6 +40,8 @@ Staff leden kunnen ook events organiseren, die events zijn niet altijd in lijn m
  
 - "cross-eiland teleportatie" Teleporteren naar een ander eiland dan waar je op bent, bijvoorbeeld met /home.
 
+- "safezone" Havens, steden, dorpen, geen enkele huisjes, en gebieden die door staff leden als safezone zijn benoemd.
+
 - "serverschip" een schip dat eigendom is van het staff team. Dit zijn bijvoorbeeld in beslag genomen schepen, of toekomstige schepen waar aan wordt gewerkt door staff leden. Serverschepen worden aangeduid met een **roze vlag**. Een serverschip mag je niet aanpassen of verplaatsen, blijf daar volledig van af. Als zo'n schip in de weg ligt vraag dan een staff lid om haar te verplaatsen.
 
 ## Algemene regels
