@@ -63,7 +63,7 @@ Over het algemeen zijn wij niet erg streng over wat er in de chat gebeurd, maar 
 - Schelden is niet toegestaan.
  
 ### Griefen
-- Griefen is niet toegestaan. Mensen met een hogere rol die bij jou horen hebben soms wel de toestemming van de leider van jouw land of groep om sommige gebouwen af te breken, dit kan bijvoorbeeld gebeuren als iets *echt heel* lelijk is.
+- Griefen is niet toegestaan. Mensen met een hogere rol die bij jou horen hebben soms wel de toestemming van de leider van jouw land of groep om sommige gebouwen af te breken, dit kan bijvoorbeeld gebeuren als iets *echt heel* lelijk is. Griefen tijdens een slag tussen strijdende partijen, mag wel, maar geen massa grief. Houdt dit dus klein.
 
 ### Ander
 - Cross-eiland teleportatie is niet toegestaan.
