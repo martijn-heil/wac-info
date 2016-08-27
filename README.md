@@ -67,6 +67,7 @@ Over het algemeen zijn wij niet erg streng over wat er in de chat gebeurd, maar 
 
 ### Ander
 - Cross-eiland teleportatie is niet toegestaan.
+- Adverteren van andere minecraft servers, in welke vorm dan ook, is ten strengste verboden.
 
 ## Algemene gameplay
 Er zijn best veel gameplay-gerelateerde regels. Ze zullen ook niet allemaal in dit bestand staan. Als je over iets twijfelt of iets niet weet, raadpleeg dan een staff lid.
