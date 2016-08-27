@@ -53,6 +53,9 @@ Staff leden kunnen ook events organiseren, die events zijn niet altijd in lijn m
 
 - Brightness mods/instellingen zijn verboden.
 
+- Macro's om schepen te besturen zijn toegestaan.
+
+
 ### Chat
 Over het algemeen zijn wij niet erg streng over wat er in de chat gebeurd, maar er zijn wel grenzen. Als je echt te ver gaat wordt je gewaarschuwd, en uiteindelijk gestraft door een stafflid. Je zal mensen dus wel eens ongestraft de regels hier onder zien breken, meestal grijpt een staff pas in als iemand dat echt te vaak doet, of te erg.
 
