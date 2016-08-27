@@ -37,6 +37,8 @@ Staff leden kunnen ook events organiseren, die events zijn niet altijd in lijn m
 - "rol" de rol die iemand vervult op de server, dit kan bijvoorbeeld kapitein, burger, admiraal, boer enz. zijn.
  
 - "geankerd schip" Een schip dat *niet midden op zee* gedurende langere tijd stil ligt, op anker.
+ 
+- "cross-eiland teleportatie" Teleporteren naar een ander eiland dan waar je op bent, bijvoorbeeld met /home.
 
 - "serverschip" een schip dat eigendom is van het staff team. Dit zijn bijvoorbeeld in beslag genomen schepen, of toekomstige schepen waar aan wordt gewerkt door staff leden. Serverschepen worden aangeduid met een **roze vlag**. Een serverschip mag je niet aanpassen of verplaatsen, blijf daar volledig van af. Als zo'n schip in de weg ligt vraag dan een staff lid om haar te verplaatsen.
 
@@ -60,6 +62,9 @@ Over het algemeen zijn wij niet erg streng over wat er in de chat gebeurd, maar 
  
 ### Griefen
 - Griefen is niet toegestaan. Mensen met een hogere rol die bij jou horen hebben soms wel de toestemming van de leider van jouw land of groep om sommige gebouwen af te breken, dit kan bijvoorbeeld gebeuren als iets *echt heel* lelijk is.
+
+### Ander
+- Cross-eiland teleportatie is niet toegestaan.
 
 ## Algemene gameplay
 Er zijn best veel gameplay-gerelateerde regels. Ze zullen ook niet allemaal in dit bestand staan. Als je over iets twijfelt of iets niet weet, raadpleeg dan een staff lid.
